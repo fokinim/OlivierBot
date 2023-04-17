@@ -5,4 +5,4 @@ meta:
     version: 17
 
 run:
-  jarName: bag-end.jar
+  jarName: out/artifacts/GamesForCamp_jar/GamesForCamp.jar
